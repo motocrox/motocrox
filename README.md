@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-~ 🌐 motocrox.net
+~ 🌐 [motocrox.net](https://motocrox.net)
 
-~ 🌐 sectorenterprise.com
+~ 🌐 [sectorenterprise.com](https://sectorenterprise.com)
 <!--
 **motocrox/motocrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
